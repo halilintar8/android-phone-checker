@@ -1,4 +1,4 @@
-package com.example.phonechecker;
+package com.halilintar8.phonechecker;
 
 import android.graphics.Color;
 import android.os.Build;

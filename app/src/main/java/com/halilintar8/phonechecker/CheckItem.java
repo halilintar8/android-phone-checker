@@ -1,4 +1,4 @@
-package com.example.phonechecker;
+package com.halilintar8.phonechecker;
 
 public class CheckItem {
     public String category;   // e.g. "Display"

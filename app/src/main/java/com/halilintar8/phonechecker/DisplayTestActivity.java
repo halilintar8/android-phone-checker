@@ -1,4 +1,4 @@
-package com.example.phonechecker;
+package com.halilintar8.phonechecker;
 
 import android.content.Context;
 import android.content.Intent;

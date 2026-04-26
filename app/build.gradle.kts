@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-    namespace = "com.example.phonechecker"
+    namespace = "com.halilintar8.phonechecker"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.phonechecker"
+        applicationId = "com.halilintar8.phonechecker"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
-        versionName = "1.0"
+        versionName = "0.0.1"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
