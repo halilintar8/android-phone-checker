@@ -1,2 +1,2 @@
-# android-phone-checker tes
+# android-phone-checker
 
